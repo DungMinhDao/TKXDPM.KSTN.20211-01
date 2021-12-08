@@ -1,4 +1,4 @@
- LAB02 - Interface Design
+ LAB03 - Detailed Design
 
 ## Task
 Hoàn thiện thiết kế chi tiết cho hệ thống EcoBike

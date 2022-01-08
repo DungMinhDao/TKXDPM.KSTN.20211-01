@@ -1,1 +1,0 @@
-Author: Nguyễn Tiến Mạnh

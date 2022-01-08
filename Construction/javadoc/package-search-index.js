@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"businesslogic.barcodconvertersubsystem"},{"l":"businesslogic.controller"},{"l":"businesslogic.costcalculator"},{"l":"businesslogic.interbanksubsystem"},{"l":"connection"},{"l":"dataaccess"},{"l":"entities"},{"l":"presentation"},{"l":"presentation.box"}];updateSearchResults();

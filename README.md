@@ -12,3 +12,5 @@ Tiếp theo là thực thi các câu lệnh trong file script.sql để tạo c�
 (Yêu cầu máy đã cài MySQL Server, ngoài ra nhóm sử dụng MySQL WorkBench để có giao diện run câu lệnh sql và dễ dàng quản lý bảng) 
 
 Đến đây là có thể run hàm Main trong package presentation để chạy chương trình.
+
+Link video demo: https://www.youtube.com/watch?v=TTYmSYbTHM8

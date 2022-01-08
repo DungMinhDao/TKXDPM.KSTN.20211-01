@@ -1,7 +1,8 @@
 # TKXDPM.KSTN.20211-01
 Hướng dẫn cài đặt phần mềm:
 
-Sau khi tải project về máy thì add tất cả các file jar trong thư mục lib vào classpath của project
+Sau khi tải project về máy thì add tất cả các file jar trong thư mục lib vào classpath của project.
+
 Tiếp tục add junit vào classpath
 
 Việc tiếp theo là add thông tin sau vào VM agrument: 

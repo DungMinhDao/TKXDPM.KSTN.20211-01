@@ -31,7 +31,7 @@ public class HttpConnector {
             assert response.body() != null;
             return response.body().string();
         } catch (Exception e) {
-            System.out.println("Lỗi rồi sếp ơi! (method: post - barocde)");
+            System.out.println("Lỗi khi kết nối với Barcode");
         }
         return null;
     }
